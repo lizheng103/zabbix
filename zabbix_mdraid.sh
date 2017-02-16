@@ -1,5 +1,5 @@
 #!/bin/bash
-#sdfsdf
+#
 # AUTHOR: <The Best Zabbix admin>
 #
 # DATE:   2013-12-31
